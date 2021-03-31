@@ -21,6 +21,7 @@ function canBalance(nums){
   console.log("I'm testing again");
   console.log("I'm gonna test again.");
   console.log("I gotta test.");
+  console.log("Pull test.");
 }
 
 // Test this function.
