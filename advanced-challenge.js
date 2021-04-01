@@ -16,6 +16,8 @@ canBalance([10, 10]) → true
 
 function canBalance(nums){
   console.log("Test");
+  console.log("This is the testing branch");
+  console.log("It will be merged with main branch.");
 }
 
 // Test this function.
