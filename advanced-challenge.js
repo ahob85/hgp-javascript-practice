@@ -15,13 +15,7 @@ canBalance([10, 10]) → true
 *******************************************************************************/
 
 function canBalance(nums){
-  console.log("testing");
-  console.log("testing again");
-  console.log("testing once more");
-  console.log("I'm testing again");
-  console.log("I'm gonna test again.");
-  console.log("I gotta test.");
-  console.log("Pull test.");
+  console.log("Test");
 }
 
 // Test this function.
